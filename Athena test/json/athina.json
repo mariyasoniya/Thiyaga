@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "product": "Product Innovation",
+      "name": "Anita Gupta",
+      "designation": "Product Innovation Manager",
+      "location": "San Francisco, CA",
+      "image": "images/greg-joondeph_breidbart_wat.png"
+    },
+    {
+      "product": "Product Innovation",
+      "name": "Anita Gupta",
+      "designation": "Product Innovation Manager",
+      "location": "San Francisco, CA",
+      "image": "images/anita_gupta_sf.jpg"
+    },
+    {
+      "product": "Product Innovation",
+      "name": "Anita Gupta",
+      "designation": "Product Innovation Manager",
+      "location": "San Francisco, CA",
+      "image": "images/kevin_weaver_watertown.png"
+    },
+    {
+      "product": "Product Innovation",
+      "name": "Anita Gupta",
+      "designation": "Product Innovation Manager",
+      "location": "San Francisco, CA",
+      "image": "images/ligmie_preval_wat.png"
+    },
+    {
+      "product": "Product Innovation",
+      "name": "Anita Gupta",
+      "designation": "Product Innovation Manager",
+      "location": "San Francisco, CA",
+      "image": "images/amanda__montgomery_-atlanta_rec.png"
+    },
+    {
+      "product": "Product Innovation",
+      "name": "Anita Gupta",
+      "designation": "Product Innovation Manager",
+      "location": "San Francisco, CA",
+      "image": "images/andrew_kahn_sales_rec.png"
+    },
+    {
+      "product": "Product Innovation",
+      "name": "Anita Gupta",
+      "designation": "Product Innovation Manager",
+      "location": "San Francisco, CA",
+      "image": "images/stephanie_ellis_austin_rec.png"
+    },
+    {
+      "product": "Product Innovation",
+      "name": "Anita Gupta",
+      "designation": "Product Innovation Manager",
+      "location": "San Francisco, CA",
+      "image": "images/james_dantzler_atlanta_rec.png"
+    }
+
+
+  ]
+}
